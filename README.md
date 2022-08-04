@@ -1,6 +1,5 @@
 # SalesDataProject
 ***
-2
 In this project, I perform exploratory data analysis to find answers to questions that will help any company to improve business and also offer great recommendations and insights.
 ## About The Project
 ***
