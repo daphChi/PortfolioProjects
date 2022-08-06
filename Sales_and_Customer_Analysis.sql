@@ -131,9 +131,9 @@ RFM_Calc as
 	when RFM_Cell_String in (414,321, 314, 313, 312, 411, 311,412,422, 421,423,421,412, 411, 413) then 'New customers'
 	when RFM_Cell_String in (331, 323, 322,324, 431,441,442,432,341,342,332) then 'Active/Regular customers'
 	when RFM_Cell_String in (123,132,122,124,121,114,113,112,211,214,213,212,111) then 'lost customers'
-	when RFM_Cell_String in (133, 134,244,243,234,144,324,224,233) then 'At risk customers'
-	when RFM_Cell_String in (131,132,142,143,141) then 'lapsed customers'
-	when RFM_Cell_String in (223,232,231,241, 232,242,222,221,224) then 'potential churners'
+	when RFM_Cell_String in (133, 134,244,243,234,144,324,233) then 'At risk customers'
+	when RFM_Cell_String in (131,132,142,241,242,232,231,143,141) then 'lapsed customers'
+	when RFM_Cell_String in (223,222,221,224) then 'potential churners'
 	end 
 from #RFM
 
