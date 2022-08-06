@@ -23,3 +23,5 @@ A sales strategy known as "data-driven sales" involves gathering and analysing p
 + Potential Churners- Customers who fail to become repeat customers.
 
 ## Final Product
+***
+
