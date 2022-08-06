@@ -22,7 +22,7 @@ A sales strategy known as "data-driven sales" involves gathering and analysing p
 + Lapsed customers- Your customers who have a high frequency but who haven’t come back to buy in an expected amount of time. Perhaps they buy where they get the best deals, send them special offers that include discount codes or limited time savings or introduce a loyalty program as a way to keep them engaged longer and reduce lapses.
 + Potential Churners- Customers who fail to become repeat customers.
 
-## Final Product
+## Snippet of Dashboard
 ***
 ![](Screenshot%20(662).png)
 ![](Screenshot%20(656).png)
