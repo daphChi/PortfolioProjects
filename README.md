@@ -24,4 +24,4 @@ A sales strategy known as "data-driven sales" involves gathering and analysing p
 
 ## Final Product
 ***
-
+![](Screenshot%20(656).png)
